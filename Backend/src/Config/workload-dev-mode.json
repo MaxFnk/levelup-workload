@@ -1,5 +1,4 @@
 {  
-    "WorkspaceGuid": "WORKSPACE_GUID",
-    "ManifestPackageFilePath": "MANIFEST_PACKAGE_FILE_PATH",
-    "WorkloadEndpointURL": "http://127.0.0.1:5000/workload"
+    "WorkspaceGuid": "95c5a1d7-91e5-4dd1-8eb6-70479e5c307d",
+    "ManifestPackageFilePath": "/Users/mfranke014/repos/levelup/levelup-workload/Backend/src/bin/Debug/ManifestPackage.1.0.0.nupkg"
 }

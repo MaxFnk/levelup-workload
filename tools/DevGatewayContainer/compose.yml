@@ -11,3 +11,4 @@ services:
       - ${MANIFEST_PACKAGE_FILE_PATH}:/app/ManifestPackage.nupkg
     tty: true
     stdin_open: true
+    network_mode: "host"

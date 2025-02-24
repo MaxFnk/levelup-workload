@@ -6,9 +6,9 @@
       <CloudServiceConfiguration>
         <Cloud>Public</Cloud>
         <AADApp>
-          <AppId>00000000-0000-0000-0000-000000000000</AppId> <!-- Your application ID -->
-          <RedirectUri>http://localhost</RedirectUri>
-          <ResourceId>api://localdevinstance/tenantID/Org.WorkloadSample</ResourceId>
+          <AppId>26adbeae-325c-4c13-915c-71e836cf9a35</AppId>
+          <RedirectUri>http://localhost:60006/close</RedirectUri>
+          <ResourceId>api://localdevinstance/72201b7b-6eac-4fd8-8cb6-70d9e6e4251a/Org.WorkloadSample/Wd</ResourceId>
         </AADApp>
         <Endpoints>
           <ServiceEndpoint>
